@@ -1,0 +1,7 @@
+#include "test.h"
+suing namespace std;
+void print_h(int i)
+{
+    printf("hello");
+}
+
